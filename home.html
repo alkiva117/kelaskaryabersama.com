@@ -143,15 +143,22 @@
 </div>
     <h1>Welcome to Kelaskaryabersama</h1>
     <h5>learning sites</h5>
-    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
-  <div class="toast-header">
-    <img src="github.png" class="rounded me-2" alt="github">
-    <strong class="me-auto">github</strong>
-    <small>now</small>
-    <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
-  </div>
-  <div class="toast-body">
-    welcome to recommendations wall!
+    <button type="button" class="btn btn-primary" id="liveToastBtn">
+      message <span class="badge text-bg-primary">1</span>
+    </button>
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header">
+      <img src="github.png" class="rounded me-2" alt="github">
+      <strong class="me-auto">github</strong>
+      <small>now</small>
+      <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+      welcome to recommendations wall!
+      here, you can try our recommendations 😼. 
+    </div>
   </div>
 </div>
 <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
