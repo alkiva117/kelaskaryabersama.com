@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en" data-bs-theme="light">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>😒 funtipzzz!!!.io | learn | kelaskaryabersama</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  </head>
+  <body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="https://kelaskaryabersama.netlify.app/">kelaskaryabersama</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="https://kelaskaryabersama.netlify.app/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://kelaskaryabersama.netlify.app/learnpage/">Learn</a>
+        </li>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Warning!</strong> this site is in construction.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+    <h1 class="display-1">welcome to learn</h1>
+    <h6>this is where you could learn coding with languages such as word blocks, <p><abbr title="HyperText Markup Language" class="initialism">HTML</abbr></p>, and others.</h6>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong>Hello! 👋</strong> nice to meet you! welcome to your new learning webpage.🤖🐱
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+    <ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link" href="https://kelaskaryabersama.netlify.app/learnpage">home</a>
+  </li>
+    <ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link" href="https://kelaskaryabersama.netlify.app/learnpage/hypertextmarkuplanguage">HTML</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Scratch</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Maths</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">fun tips</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+  </li>
+</ul>
+      <h6><code></h6>
+      <nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
+  <a class="navbar-brand" href="#">funtipzz!!!.io 🙄</a>
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="#scrollspyHeading1">kite</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#scrollspyHeading2">lego</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">ᓚᘏᗢ</a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#scrollspyHeading3">hotwheels</a></li>
+        <li><a class="dropdown-item" href="#scrollspyHeading4">paper planezz!</a></li>
+      </ul>
+          <li class="nav-item">
+      <a class="nav-link" href="#scrollspyHeading5">🥾</a>
+    </li>
+    </li>
+  </ul>
+</nav>
+<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
+  <h4 id="scrollspyHeading1">kitezz!!</h4>
+  <h1>🪁🪁🪁🪁</h1>
+  <p><strong>windy days  required</strong> fly a kite 🪁</p>
+  <p>1. point your kite towards the wind</p>
+  <p>ifelse: if your kite doesn't instantly fly, run towards the wind</p>
+  <p>2?. release and pull</p>
+  <p>ifelse: if your kite fall, pull it lightly or jerk it and release</p>
+  <h4 id="scrollspyHeading2">lego</h4>
+  <p>...</p>
+  <h4 id="scrollspyHeading3">button</h4>
+  <p>...</p>
+  <h4 id="scrollspyHeading4">image</h4>
+  <p>...</p>
+    <h4 id="scrollspyHeading5">alerts</h4>
+  <div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+  <p>here  is the code to add alert:</p>
+  <p><code>&lt;div class="alert alert-warning alert-dismissible fade show" role="alert"&gt;
+  &lt;strong&gt;Holy guacamole!&lt/strong&gt; You should check in on some of those fields below.
+  &lt;button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"&lt;/button&gt;
+&lt;/div&gt;</code></p>
+</div>
+    <div class="p-3 mb-2 bg-dark text-emphasis-dark"></div>
+    <div class="p-3 mb-2 bg-dark text-emphasis-dark"></div>
+    <h1 class="display-1">News News!</h1>
+    <div class="alert alert-success" role="alert">
+      24 august 2023
+      alkiva117 added home page and navbar-1
+</div>
+    <div class="alert alert-success" role="alert">
+  26 august 2023
+  finished home page
+</div>
+    <div class="alert alert-success" role="alert">
+  27 august 2023
+      added sign in and <code>form_href="#"</code>
+</div>
+    <div class="alert alert-success" role="alert">
+      30 august 2023
+      learnpage code <code><nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="https://kelaskaryabersama.netlify.app/">kelaskaryabersama</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="https://kelaskaryabersama.netlify.app/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Learn</a>
+        </li>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Warning!</strong> this site is in construction.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+    <h1 class="display-1">welcome to learn</h1>
+    <h6>this is where you could learn coding with languages such as word blocks, <p><abbr title="HyperText Markup Language" class="initialism">HTML</abbr></p>, and others.</h6>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong>Hello! 👋</strong> nice to meet you! welcome to your new learning webpage.🤖🐱
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+  </code>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+  </body>
+</html>
